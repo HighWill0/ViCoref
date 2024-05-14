@@ -6,5 +6,5 @@ ViCoref is manually annotated on two distinct sources, including Wikipedia and V
 ![alt text](https://github.com/HighWill0/ViCoref/blob/main/image/example.png)
 
 **Details:**
-  1. Sources: (Wikipedia)[https://vi.wikipedia.org/], (Vietnamese Literature)[sachhayonline.com]
+  1. Sources: [Wikipedia](https://vi.wikipedia.org/), [Vietnamese Literature](sachhayonline.com)
   2. Label: Per (person) and Coref (Coreference)
