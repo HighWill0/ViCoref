@@ -8,4 +8,5 @@ ViCoref is manually annotated on two distinct sources, including Wikipedia and V
 **Details:**
   1. Sources: [Wikipedia](https://vi.wikipedia.org/), [Vietnamese Literature](sachhayonline.com)
   2. Label: Per (person) and Coref (Coreference)
- Data was created by AnhLongthanhlich
+ 
+Data was created by AnhLongthanhlich
